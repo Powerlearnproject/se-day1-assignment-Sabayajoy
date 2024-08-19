@@ -70,4 +70,8 @@ Prompt Engineering is the crafting of questions or statement to get the best rep
   Importance 
 .makes the question clear and specific so that the AI understants what you want
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. 
+ Vague prompt
+  Translate 
+improved prompt
+  Translate English to italian
